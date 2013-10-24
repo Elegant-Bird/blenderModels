@@ -1,0 +1,1 @@
+Pretty low-res snake model done in blender, open source software. It has already been rigged, textured and weight painted. This is free to use and download if you're only using it for personal purposes. Anything for monetary gain is prohibited without explicit permission from the developer. 
